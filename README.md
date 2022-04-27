@@ -1,2 +1,2 @@
-# evgnshrv.github.io
+# shrv.xyz
 Homepage of Evgenii Shiriaev.
